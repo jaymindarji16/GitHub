@@ -1,4 +1,0 @@
-#Tue Dec 24 20:19:58 IST 2019
-base.0=/home/jaymin/Projects/Quizzard/QuizBook-master/app/build/intermediates/dex/release/mergeDexRelease/out
-path.0=classes.dex
-renamed.0=classes.dex
