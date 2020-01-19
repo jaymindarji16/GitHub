@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Think</string>
+    <string name="toast_message">"1.   Enter your name for the quiz.
+
+ 2.   Enter your valid mail address.
+        eg:   abc@xyz.com
+
+ 3.   Now set your password for
+        security purpose.
+
+              Enjoy the app! ☺</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_navigation_activity">Quiz</string>
+    <string name="title_activity_navigation_">Navigation_Activity</string>
+    <string name="title_activity_about_us">About me</string>
+    <string name="note">Quizzard is a smart app which is designed with simple and optimized user interface. Quizzard has all the categories of quiz question which are used in daily life.</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_questions">Questions</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_score_card">ScoreCard</string>
+    <string name="title_activity_setting_activity">Settings</string>
+    <string name="email_content">\n\nHere is the link to the app:\n\n </string>
+    <string name="link"><u>https://www.google.com</u></string>
+    <string name="last_content">\n\nSteps: click on quizzard.apk and then click on download.</string>
+
+</resources>
